@@ -1,4 +1,5 @@
+.history
 .vs
 .vscode
 /bin
-/obj/Debug
+/obj
